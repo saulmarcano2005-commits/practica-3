@@ -1,0 +1,14 @@
+index.html
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DomyGym</title>
+</head>
+<body style="font-family: Arial; text-align:center; margin-top:100px;">
+    <h1>DomyGym Sistema de Gestión de Gimnasios</h1>
+    <h2>Práctica DevOps - GitHub Pages</h2>
+    <p>Página publicada automáticamente desde GitHub</p>
+</body>
+</html>
